@@ -1,4 +1,7 @@
+<img src="https://github.com/9d4/9d4/raw/main/latern.png" align="right" width="320">
+
 ## Hi, I'm Dimas Ananda.
+
 In online world I mostly knows as traper, traperwaze, or also 9d4. They are my initials, and are actually stand for something that I can't tell you.
 
 > An independent student who loves to build thing with such microcontroller and web tech!
