@@ -8,6 +8,6 @@ In online world I mostly knows as traper, traperwaze, or also 9d4. They are my i
 - 🔭 I’m currently studying in a vocational school
 - 🌱 I’m currently learning software and network engineering
 - 💬 Feel free to ask me about Arduino(or any) and Web development
-- 📫 How to reach me: traperwaze@gmail.com
+- 📫 How to reach me: me@dimanda.my.id
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: Don't get carried away easily
