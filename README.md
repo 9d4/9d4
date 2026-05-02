@@ -1,7 +1,7 @@
 👋 I'm **Dimanda**
 
 <br/>
-<img width="1839" height="1034" alt="My recent favourite shot" src="https://github.com/user-attachments/assets/5270906b-d839-43b3-a265-995458c33a6c" />
+<img width="2048" height="1152" alt="IMG_1033" src="https://github.com/user-attachments/assets/dba99eed-e0cc-4e09-846f-38e0ccdd7e84" alt="My recent favourite shot" />
 <br/>
 
 I'm an independent developer who loves to build thing with such microcontroller and web tech. 
